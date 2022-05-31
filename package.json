@@ -1,0 +1,23 @@
+{
+  "name": "cron-example",
+  "version": "1.0.0",
+  "description": "This is a node-cron example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedbychavez/node-cron-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedbychavez/node-cron-example/issues"
+  },
+  "homepage": "https://github.com/codedbychavez/node-cron-example#readme",
+  "dependencies": {
+    "node-cron": "^3.0.0"
+  }
+}
